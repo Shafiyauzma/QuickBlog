@@ -132,10 +132,10 @@ Create a `.env` file inside the **server** folder and add:
 JWT_SECRET = 'your_key'
 ADMIN_EMAIL = "your_email"
 ADMIN_PASSWORD = "your_password"
-MONGODB_URI = "mongodb_url"
-IMAGEKIT_PUBLIC_KEY = "imagekit_public_key"
-IMAGEKIT_PRIVATE_KEY = "imagekit_private_key"
-IMAGEKIT_URL_ENDPOINT = "imagekit_url_endpoint"
+MONGODB_URI = "your_mongodb_url"
+IMAGEKIT_PUBLIC_KEY = "your_imagekit_public_key"
+IMAGEKIT_PRIVATE_KEY = "your_imagekit_private_key"
+IMAGEKIT_URL_ENDPOINT = "your_imagekit_url_endpoint"
 GEMINI_API_KEY = "your_gemini_key_id"
 
 ```
